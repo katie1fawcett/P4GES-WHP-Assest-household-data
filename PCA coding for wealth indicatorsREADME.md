@@ -69,14 +69,14 @@ poverty.pca
 
 #Results below
 #Standardized loadings (pattern matrix) based upon correlation matrix
-#PC1   PC2   h2   u2 com
+                               #PC1   PC2   h2   u2 com
 #main_house_rm                 0.59 -0.46 0.55 0.45 1.9
 #as.ordered.main_house_rf.     0.57 -0.53 0.60 0.40 2.0
 #sum_of_livestock              0.51  0.01 0.26 0.74 1.0
 #food_sec                      0.75  0.04 0.56 0.44 1.0
 #as.ordered.light_sufficiency. 0.67  0.38 0.59 0.41 1.6
 #as.ordered.mplayer_num.       0.39  0.72 0.66 0.34 1.5
-#
+
                        #PC1  PC2
 #SS loadings           2.08 1.15
 #Proportion Var        0.35 0.19
